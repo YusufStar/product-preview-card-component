@@ -1,0 +1,15 @@
+{
+  "projectId": "prj_vBULaCyRpJr4FAWD1gp59pqnIoRx",
+  "orgId": "iW9u8Kei7T6fU7JLB3SQCwtc",
+  "settings": {
+    "createdAt": 1665824551786,
+    "framework": "create-react-app",
+    "devCommand": null,
+    "installCommand": null,
+    "buildCommand": null,
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "16.x"
+  }
+}
